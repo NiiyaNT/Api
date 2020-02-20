@@ -2,24 +2,24 @@
   "posts": [
     {
       "id": 1,
-      "lastName": "Jhon",
+      "firstName": "Jhon",
       "Apellido1": "hello",
       "Apellido2": "Mostacho",
       "edad":0
     },
     {
       "id": 2,
-      "lastName": "Jhon",
+      "lfirstName": "Jhon",
       "Apellido1": "hello",
       "Apellido2": "Mostacho",
       "edad":0
     },
     {
       "id": 3,
-      "lastName": "Jhon",
-      "Apellido1": "hello",
-      "Apellido2": "Mostacho",
-      "edad":0
+      "firstName": "Akane",
+      "Apellido1": "Tsunemori",
+      "Apellido2": "",
+      "edad":22
     }
   ],
   "profile": {
