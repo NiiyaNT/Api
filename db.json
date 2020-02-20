@@ -2,8 +2,8 @@
   "posts": [
     {
       "lastName": "Jhon",
-      "Apellido1": "hello"
-      "Apellido2": "Mostacho"
+      "Apellido1": "hello",
+      "Apellido2": "Mostacho",
       "edad":0
     }
   ],
