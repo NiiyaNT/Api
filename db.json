@@ -1,8 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "lastName": "Jhon",
+      "Apellido1": "hello"
+      "Apellido2": "Mostacho"
+      "edad":0
     }
   ],
   "profile": {
